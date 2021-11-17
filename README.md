@@ -1,2 +1,2 @@
 # Power BI report link
-https://app.powerbi.com/view?r=eyJrIjoiNGMwZTFkY2ItMTFiMC00Njc5LWI5NTEtZWNlNGExYjE2NDRmIiwidCI6IjQxYWI0MmE5LTM4MWItNDhjZi04YTg1LTcyMDQ2NDkyMjk3NiIsImMiOjEwfQ%3D%3D
+https://app.powerbi.com/view?r=eyJrIjoiZTJjNzg4NjYtZDdkMy00YWU1LTgzNWEtYzdlMjBmYmUxMTAxIiwidCI6IjQxYWI0MmE5LTM4MWItNDhjZi04YTg1LTcyMDQ2NDkyMjk3NiIsImMiOjEwfQ%3D%3D
