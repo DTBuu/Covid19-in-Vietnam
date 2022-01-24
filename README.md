@@ -1,2 +1,2 @@
 # Power BI report link
-https://app.powerbi.com/view?r=eyJrIjoiYjUxYTRmYjEtMTNlNC00NmVkLWE1ZDYtNDNhYmU5NDVjYjdiIiwidCI6IjQxYWI0MmE5LTM4MWItNDhjZi04YTg1LTcyMDQ2NDkyMjk3NiIsImMiOjEwfQ%3D%3D
+https://app.powerbi.com/view?r=eyJrIjoiYjUxYTRmYjEtMTNlNC00NmVkLWE1ZDYtNDNhYmU5NDVjYjdiIiwidCI6IjQxYWI0MmE5LTM4MWItNDhjZi04YTg1LTcyMDQ2NDkyMjk3NiIsImMiOjEwfQ%3D%3D&pageName=ReportSection
